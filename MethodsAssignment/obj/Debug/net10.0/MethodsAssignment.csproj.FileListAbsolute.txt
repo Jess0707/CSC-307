@@ -1,0 +1,14 @@
+C:\Users\akins\MethodsAssignment\bin\Debug\net10.0\CSharpMethodsAssignment.exe
+C:\Users\akins\MethodsAssignment\bin\Debug\net10.0\CSharpMethodsAssignment.deps.json
+C:\Users\akins\MethodsAssignment\bin\Debug\net10.0\CSharpMethodsAssignment.runtimeconfig.json
+C:\Users\akins\MethodsAssignment\bin\Debug\net10.0\CSharpMethodsAssignment.dll
+C:\Users\akins\MethodsAssignment\bin\Debug\net10.0\CSharpMethodsAssignment.pdb
+C:\Users\akins\MethodsAssignment\obj\Debug\net10.0\MethodsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akins\MethodsAssignment\obj\Debug\net10.0\MethodsAssignment.AssemblyInfoInputs.cache
+C:\Users\akins\MethodsAssignment\obj\Debug\net10.0\MethodsAssignment.AssemblyInfo.cs
+C:\Users\akins\MethodsAssignment\obj\Debug\net10.0\MethodsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\akins\MethodsAssignment\obj\Debug\net10.0\CSharpMethodsAssignment.dll
+C:\Users\akins\MethodsAssignment\obj\Debug\net10.0\refint\CSharpMethodsAssignment.dll
+C:\Users\akins\MethodsAssignment\obj\Debug\net10.0\CSharpMethodsAssignment.pdb
+C:\Users\akins\MethodsAssignment\obj\Debug\net10.0\MethodsAssignment.genruntimeconfig.cache
+C:\Users\akins\MethodsAssignment\obj\Debug\net10.0\ref\CSharpMethodsAssignment.dll
